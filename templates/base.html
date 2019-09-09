@@ -1,0 +1,80 @@
+{# vim: ts=2:sw=2:expandtab #}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>SOSP 2019 - Symposium on Operating Systems Principles</title>
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="SOSP 2019" />
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <!--side-bar-->
+        <div class="col-sm-3 col-md-2 sidebar">
+          {% include 'sidebar.html' %}
+          <div class="clearfix"> </div>				
+        </div>
+        <!--//side-bar-->
+
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <!--banner-->
+          <div class="banner">
+            <div class="jumbotron banner-text">
+              <h2>SOSP 2019</h2>
+              <p>
+              The 27th ACM Symposium on Operating Systems Principles<br>
+              Deerhurst Resort, Huntsville, Ontario, Canada<br>
+              October 27-30, 2019
+              </p>
+            </div>
+          </div>
+	  {% include 'navbar.html' %}
+	  <!--//banner-->
+
+          <!--main-text-->
+          {% block content %}
+          {% endblock %}
+
+          <div class="footer">
+            <!--
+              <p>&copy;SIGOPS 2017 &#183; Privacy Policy &#183; All trademarks and registered trademarks are the property of their respective owners.</p>
+            -->
+          </div>
+        </div>
+        <div class="footer-logo">
+          <a href="https://www.sigops.org/sosp/sosp19/" target="_blank">
+            <img src="images/logo.png" id="sosp19logo" alt="SOSP19"/>
+          </a>
+          <div></div>
+          <a href="https://www.sigops.org/" target="_blank">
+            <img src="images/sigops.jpg" alt="SIGOPS"/>
+          </a>
+          <div>In cooperation with</div>
+          <a href="https://www.usenix.org/" target="_blank">
+            <img src="images/usenix.png" alt="USENIX"/>
+          </a>
+        </div>
+        <div class="clearfix"> </div>
+      </div>
+    </div>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script> addEventListener("load", function() { setTimeout(hideURLbar, 0); 
+    }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <script src="js/jquery-2.2.2.min.js"></script>
+    <script src="js/bootstrap.js"> </script>
+    <script src="js/move-top.js"></script>
+    <script src="js/easing.js"></script>
+    <script>
+jQuery(document).ready(function($) {
+  $(".scroll").click(function(event){		
+    event.preventDefault();
+    $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+  });
+});
+    </script>
+  </body>
+</html>
