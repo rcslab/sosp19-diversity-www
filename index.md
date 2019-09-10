@@ -22,46 +22,47 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **9:30**                      | Lidong Zhou (Microsoft Research Asia), *Diversity in the workplace* |
 | &nbsp;                        |   &nbsp;                 |
-| **10:00**                     | Sujata Banerjee, *TBD*   |
+| **10:00**                     | Sujata Banerjee (VMWare), *TBD*   |
 | &nbsp;                        |   &nbsp;                 |
 | **10:30**                     | *Break and Networking*   |
 | &nbsp;                        |   &nbsp;                 |
-| **11:00**                     | John Wilkes (Google), *How to make elevator speech* |
 | &nbsp;                        |   &nbsp;                 |
-| **11:30**                     | *Breakout session: Practice making elevator speaches!* |
+| **11:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
 | &nbsp;                        |   &nbsp;                 |
+| **11:30**                     | John Wilkes (Google), *How to make elevator speech* |
 | &nbsp;                        |   &nbsp;                 |
-| **12:00**                     | Lunch and Networking     |
-| &nbsp;                        |   &nbsp;                 |
-| &nbsp;                        |   &nbsp;                 |
-| **13:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
-| &nbsp;                        |   &nbsp;                 |
-| **13:30**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
-| &nbsp;                        |   &nbsp;                 |
-| **14:00**                     | Sandhya Dwarkadas (URochester), *Presentation advice* |
-| &nbsp;                        |   &nbsp;                 |
-| **14:30**                     | Liuba Shrira (Brandeis), *Multiparty transactions in blockchain stores* |
-| &nbsp;                        |   &nbsp;                 |
-| **15:00**                     | *Break and Networking*   |
+| **12:00**                     | *Breakout session: Practice making elevator speaches!* |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **15:30**                     | __Recent graduates session__ |
+| **12:30**                     | Conference Lunch and Networking     |
+| &nbsp;                        |   &nbsp;                 |
+| &nbsp;                        |   &nbsp;                 |
+| **14:00**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
+| &nbsp;                        |   &nbsp;                 |
+| **14:30**                     | Sandhya Dwarkadas (URochester), *Presentation advice* |
+| &nbsp;                        |   &nbsp;                 |
+| **15:00**                     | Liuba Shrira (Brandeis), *Multiparty transactions in blockchain stores* |
+| &nbsp;                        |   &nbsp;                 |
+| **15:30**                     | *Break and Networking*   |
+| &nbsp;                        |   &nbsp;                 |
+| &nbsp;                        |   &nbsp;                 |
+| **16:00**                     | __Recent graduates session__ |
 |                               | Ana Klimovic (Google and ETH Zurich), *Interviewing for academia*|
 |                               | Natacha Crooks (Cornell), *Student/advisor relationships* |
 |                               | Irene Zhang (Microsoft Research), *Choosing a research topic*|
 | &nbsp;                        |   &nbsp;                 |
-| **16:30**                     | __Recent graduates panel__ |
+| **17:00**                     | __Recent graduates panel__ |
 |                               | *Moderator:* Ana Klimovic (Google and ETH Zurich)|
 |                               | *__Participants:__* |
 |                               | Amy Tai (VMWare) |
 |                               | Irene Zhang (Microsoft Research) |
-|                               | Nandita Vijaykumar (??) |
+|                               | Nandita Vijaykumar () |
 |                               | Natacha Crooks (Cornell) |
 |                               | Sebastian Angel (UPenn) |
-|                               | Sangeetha Abdu Jyothi (VMWare / UC Urvine) |
+|                               | Sangeetha Abdu Jyothi (UC Urvine) |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **17:30**                     | Conference dinner and networking    |
+| **18:00**                     | Conference dinner and networking    |
 
 
 
