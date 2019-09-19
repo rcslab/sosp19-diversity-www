@@ -18,26 +18,29 @@ opportunities that they might not otherwise receive.
 
 |                               |                          |
 | ------------------------------|:-------------------------|
-| **9:00** &nbsp;&nbsp;&nbsp;   | Yiying Zhang (Purdue), *TBD*      |
+| **9:00**                     | __Academia or Industry__ |
+|                               | Lidong Zhou (Microsoft Research Asia), *Diversity and inclusion in the workplace* |
+|                               | Yiying Zhang (Purdue), *Research in academia*     |
+|                               | Sujata Banerjee (VMware), *Research in industry*  |
 | &nbsp;                        |   &nbsp;                 |
-| **9:30**                      | Lidong Zhou (Microsoft Research Asia), *Diversity in the workplace* |
+| **10:00**                     | __Panel and Q&A__ |
 | &nbsp;                        |   &nbsp;                 |
-| **10:00**                     | Sujata Banerjee (VMWare), *TBD*   |
+| &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **10:30**                     | *Break and Networking*   |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **11:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
+| **11:00**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
 | &nbsp;                        |   &nbsp;                 |
-| **11:30**                     | John Wilkes (Google), *How to make elevator speech* |
+| **11:30**                     | John Wilkes (Google), *How to make an elevator speech* |
 | &nbsp;                        |   &nbsp;                 |
-| **12:00**                     | *Breakout session: Practice making elevator speaches!* |
+| **12:00**                     | *Breakout session: Practice making elevator speeches* |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **12:30**                     | Conference Lunch and Networking     |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **14:00**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
+| **14:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
 | &nbsp;                        |   &nbsp;                 |
 | **14:30**                     | Sandhya Dwarkadas (URochester), *Presentation advice* |
 | &nbsp;                        |   &nbsp;                 |
@@ -54,12 +57,12 @@ opportunities that they might not otherwise receive.
 | **17:00**                     | __Recent graduates panel__ |
 |                               | *Moderator:* Ana Klimovic (Google and ETH Zurich)|
 |                               | *__Participants:__* |
-|                               | Amy Tai (VMWare) |
+|                               | Amy Tai (VMware) |
 |                               | Irene Zhang (Microsoft Research) |
-|                               | Nandita Vijaykumar () |
+|                               | Nandita Vijaykumar (CMU) |
 |                               | Natacha Crooks (Cornell) |
 |                               | Sebastian Angel (UPenn) |
-|                               | Sangeetha Abdu Jyothi (UC Urvine) |
+|                               | Sangeetha Abdu Jyothi (UC Irvine) |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **18:00**                     | Conference dinner and networking    |
