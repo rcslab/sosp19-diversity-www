@@ -18,13 +18,12 @@ opportunities that they might not otherwise receive.
 
 |                               |                          |
 | ------------------------------|:-------------------------|
-| **9:00**                     | __Academia or Industry__ |
+| **9:00** &nbsp;&nbsp;&nbsp;                    | __Academia or Industry__ |
 |                               | Lidong Zhou (Microsoft Research Asia), *Diversity and inclusion in the workplace* |
 |                               | Yiying Zhang (Purdue), *Research in academia*     |
 |                               | Sujata Banerjee (VMware), *Research in industry*  |
 | &nbsp;                        |   &nbsp;                 |
 | **10:00**                     | __Panel and Q&A__ |
-| &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **10:30**                     | *Break and Networking*   |
