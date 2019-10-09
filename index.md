@@ -19,8 +19,7 @@ opportunities that they might not otherwise receive.
 |                               |                          |
 | ------------------------------|:-------------------------|
 | **9:00** &nbsp;&nbsp;&nbsp;                    | __Academia or Industry__ |
-|                               | Lidong Zhou (Microsoft Research Asia), *Diversity and inclusion in the workplace* |
-|                               | Yiying Zhang (Purdue), *Research in academia*     |
+|                               | Yiying Zhang (UCSD), *Research in academia*     |
 |                               | Sujata Banerjee (VMware), *Research in industry*  |
 | &nbsp;                        |   &nbsp;                 |
 | **10:00**                     | __Panel and Q&A__ |
@@ -31,9 +30,9 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **11:00**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
 | &nbsp;                        |   &nbsp;                 |
-| **11:30**                     | John Wilkes (Google), *How to make an elevator speech* |
-| &nbsp;                        |   &nbsp;                 |
-| **12:00**                     | *Breakout session: Practice making elevator speeches* |
+| **11:30**                     | John Wilkes (Google), *Elevator pitches* |
+| &nbsp;                        | *Abstract:* Ever wanted to know how to get an idea across in 30 seconds?  Come learn the magic trick :-).  And have fun trying it out.|
+| &nbsp;                        | *Homework:* pick something you want to explain to somebody else, such as your project or a possible new idea you want to get adopted. Then think about what problem it is solving.  Now: reread that last sentence, very, very carefully! |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **12:30**                     | Conference Lunch and Networking     |
@@ -50,7 +49,7 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **16:00**                     | __Recent graduates session__ |
 |                               | Ana Klimovic (Google and ETH Zurich), *Interviewing for academia*|
-|                               | Natacha Crooks (Cornell), *Student/advisor relationships* |
+|                               | Amy Tai (VMware), *TBD* |
 |                               | Irene Zhang (Microsoft Research), *Choosing a research topic*|
 | &nbsp;                        |   &nbsp;                 |
 | **17:00**                     | __Recent graduates panel__ |
@@ -59,9 +58,8 @@ opportunities that they might not otherwise receive.
 |                               | Amy Tai (VMware) |
 |                               | Irene Zhang (Microsoft Research) |
 |                               | Nandita Vijaykumar (CMU) |
-|                               | Natacha Crooks (Cornell) |
 |                               | Sebastian Angel (UPenn) |
-|                               | Sangeetha Abdu Jyothi (UC Irvine) |
+|                               | Sangeetha Abdu Jyothi (VMware and UC Irvine) |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **18:00**                     | Conference dinner and networking    |
