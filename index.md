@@ -18,7 +18,7 @@ opportunities that they might not otherwise receive.
 
 |                               |                          |
 | ------------------------------|:-------------------------|
-| **9:00** &nbsp;&nbsp;&nbsp;                    | __Academia or Industry__ |
+| **9:00** &nbsp;&nbsp;&nbsp;                    | __Academia or industry__ |
 |                               | Yiying Zhang (UCSD), *Research in academia*     |
 |                               | Sujata Banerjee (VMware), *Research in industry*  |
 | &nbsp;                        |   &nbsp;                 |
@@ -28,14 +28,14 @@ opportunities that they might not otherwise receive.
 | **10:30**                     | *Break and Networking*   |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **11:00**                     | Yao Yue (Twitter), *Building High-Performance Cache for Fun and Profit* |
+| **11:00**                     | Yao Yue (Twitter), *Building high-performance cache for fun and profit* |
 | &nbsp;                        |   &nbsp;                 |
-| **11:30**                     | John Wilkes (Google), *Elevator pitches* |
+| **11:30**                     | john wilkes (Google), *Elevator pitches* |
 | &nbsp;                        | *Abstract:* Ever wanted to know how to get an idea across in 30 seconds?  Come learn the magic trick :-).  And have fun trying it out.|
-| &nbsp;                        | *Homework:* pick something you want to explain to somebody else, such as your project or a possible new idea you want to get adopted. Then think about what problem it is solving.  Now: reread that last sentence, very, very carefully! |
+| &nbsp;                        | *Homework:* Pick something you want to explain to somebody else, such as your project or a possible new idea you want to get adopted. Then think about what problem it is solving.  Now: reread that last sentence, very, very carefully! |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **12:30**                     | Conference Lunch and Networking     |
+| **12:30**                     | Conference lunch and networking     |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **14:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
@@ -49,7 +49,7 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **16:00**                     | __Recent graduates session__ |
 |                               | Ana Klimovic (Google and ETH Zurich), *Interviewing for academia*|
-|                               | Amy Tai (VMware), *How to Combat Decision Paralysis* |
+|                               | Amy Tai (VMware), *How to combat decision paralysis* |
 |                               | Irene Zhang (Microsoft Research), *Choosing a research topic*|
 | &nbsp;                        |   &nbsp;                 |
 | **17:00**                     | __Recent graduates panel__ |
