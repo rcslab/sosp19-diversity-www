@@ -49,7 +49,7 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **16:00**                     | __Recent graduates session__ |
 |                               | Ana Klimovic (Google and ETH Zurich), *Interviewing for academia*|
-|                               | Amy Tai (VMware), *TBD* |
+|                               | Amy Tai (VMware), *How to Combat Decision Paralysis* |
 |                               | Irene Zhang (Microsoft Research), *Choosing a research topic*|
 | &nbsp;                        |   &nbsp;                 |
 | **17:00**                     | __Recent graduates panel__ |
