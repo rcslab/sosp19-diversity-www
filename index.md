@@ -25,7 +25,7 @@ opportunities that they might not otherwise receive.
 | **10:00**                     | __Panel and Q&A__ |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **10:30**                     | *Break and Networking*   |
+| **10:30**                     | *Break and networking*   |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **11:00**                     | Yao Yue (Twitter), *Building high-performance cache for fun and profit* |
@@ -44,7 +44,7 @@ opportunities that they might not otherwise receive.
 | &nbsp;                        |   &nbsp;                 |
 | **15:00**                     | Liuba Shrira (Brandeis), *Multiparty transactions in blockchain stores* |
 | &nbsp;                        |   &nbsp;                 |
-| **15:30**                     | *Break and Networking*   |
+| **15:30**                     | *Break and networking*   |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
 | **16:00**                     | __Recent graduates session__ |
@@ -71,5 +71,9 @@ opportunities that they might not otherwise receive.
 
 
 
+#### Workshop Organizers 
 
-
+<font size="2.5">
+Irina Calciu (VMware)   
+Sasha Fedorova (UBC)   
+</font>
