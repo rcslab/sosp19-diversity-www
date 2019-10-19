@@ -18,7 +18,8 @@ opportunities that they might not otherwise receive.
 
 |                               |                          |
 | ------------------------------|:-------------------------|
-| **9:00** &nbsp;&nbsp;&nbsp;                    | __Academia or industry__ |
+| **7:30**                      | Breakfast                |
+| **9:00**                      | __Academia or industry__ |
 |                               | Yiying Zhang (UCSD), *Research in academia*     |
 |                               | Sujata Banerjee (VMware), *Research in industry*  |
 | &nbsp;                        |   &nbsp;                 |
@@ -62,7 +63,7 @@ opportunities that they might not otherwise receive.
 |                               | Sangeetha Abdu Jyothi (VMware and UC Irvine) |
 | &nbsp;                        |   &nbsp;                 |
 | &nbsp;                        |   &nbsp;                 |
-| **18:00**                     | Conference dinner and networking    |
+| **18:00**                     | Workshop dinner and networking    |
 
 
 
