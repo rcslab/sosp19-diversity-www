@@ -9,7 +9,9 @@ sessions, and interactive events offered and organized by leading researchers in
 academia and industry, covering topics about system research and general career
 development tips. The overall goal of the workshop is to strengthen the pipeline
 of underrepresented systems students, providing them with advice and networking
-opportunities that they might not otherwise receive.
+opportunities that they might not otherwise receive.   
+  
+The workshop will take place in the Lawren Harris Room. 
 </font>
 
 
@@ -19,31 +21,37 @@ opportunities that they might not otherwise receive.
 |                               |                          |
 | ------------------------------|:-------------------------|
 | **7:30**                      | Breakfast                |
-| **9:00**                      | __Academia or industry__ |
-|                               | Yiying Zhang (UCSD), *Research in academia*     |
+| **9:00**                      | __Academia or industry?__ |
+|                               | Yiying Zhang (UCSD), *(Enjoy) Research in Academia*     |
 |                               | Sujata Banerjee (VMware), *Research in industry*  |
 | **10:00**                     | __Panel and Q&A__ |
+|                               | *Moderator:* Irina Calciu (VMware)|
+|                               | *__Participants:__* |
+|                               | Matei Zaharia (Stanford and Databricks) |
+|                               | Rebecca Isaacs (Twitter) |
+|                               | Sujata Banerjee (VMware) |
+|                               | Yiying Zhang (UCSD) |
 | **10:30**                     | *Break and networking*   |
-| **11:00**                     | Yao Yue (Twitter), *Building high-performance cache for fun and profit* |
+| **11:00**                     | Yao Yue (Twitter), *Building High-performance Cache for Fun and Profit* |
 | **11:30**                     | john wilkes (Google), *Elevator pitches* |
 | &nbsp;                        | *Abstract:* Ever wanted to know how to get an idea across in 30 seconds?  Come learn the magic trick :-).  And have fun trying it out.|
 | &nbsp;                        | *Homework:* Pick something you want to explain to somebody else, such as your project or a possible new idea you want to get adopted. Then think about what problem it is solving.  Now: reread that last sentence, very, very carefully! |
 | **12:30**                     | Conference lunch and networking     |
 | **14:00**                     | Rebecca Isaacs (Twitter), *How to read a paper* |
-| **14:30**                     | Sandhya Dwarkadas (URochester), *Presentation advice* |
-| **15:00**                     | Liuba Shrira (Brandeis), *Multiparty transactions in blockchain stores* |
+| **14:30**                     | Sandhya Dwarkadas (University of Rochester), *Presentation advice* |
+| **15:00**                     | Liuba Shrira (Brandeis University), *Multiparty transactions in blockchain stores* |
 | **15:30**                     | *Break and networking*   |
 | **16:00**                     | __Recent graduates session__ |
-|                               | Ana Klimovic (Google and ETH Zurich), *Interviewing for academia*|
-|                               | Amy Tai (VMware), *How to combat decision paralysis* |
-|                               | Irene Zhang (Microsoft Research), *Choosing a research topic*|
+|                               | Ana Klimovic (Google and ETH Zurich), *The Academic Job Search*|
+|                               | Amy Tai (VMware), *How to Combat Decision Paralysis* |
+|                               | Irene Zhang (Microsoft Research), *Choosing a Research Topic*|
 | **17:00**                     | __Recent graduates panel__ |
 |                               | *Moderator:* Ana Klimovic (Google and ETH Zurich)|
 |                               | *__Participants:__* |
 |                               | Amy Tai (VMware) |
 |                               | Irene Zhang (Microsoft Research) |
-|                               | Nandita Vijaykumar (CMU) |
-|                               | Sebastian Angel (UPenn) |
+|                               | Nandita Vijaykumar (CMU and ETH Zurich and University of Toronto) |
+|                               | Sebastian Angel (University of Pennsylvania) |
 |                               | Sangeetha Abdu Jyothi (VMware and UC Irvine) |
 | **18:00**                     | Workshop dinner and networking    |
 
