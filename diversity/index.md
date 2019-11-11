@@ -29,6 +29,7 @@ The workshop will take place in the Lawren Harris Room.
 |                               | *__Participants:__* |
 |                               | Matei Zaharia (Stanford and Databricks) |
 |                               | Rebecca Isaacs (Twitter) |
+|                               | Sandhya Dwarkadas (University of Rochester) |
 |                               | Sujata Banerjee (VMware) |
 |                               | Yiying Zhang (UCSD) |
 | **10:30**                     | *Break and networking*   |
